@@ -14,6 +14,9 @@ a leading Indian HVAC and cooling solutions company, valuation techniques.
 Football field valuation chart, DCF bridge, WACC build, sensitivity grids, and 
 relative valuation summary — screenshots included below.
 
+## Full Report
+📄 [View Full Valuation Report (PDF)](Deepa - Valuation Report- Bluestar Ltd.pdf)
+
 ## Disclaimer
 This is an academic exercise for skill-building purposes and does not constitute 
 investment advice.
