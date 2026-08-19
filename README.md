@@ -15,7 +15,7 @@ Football field valuation chart, DCF bridge, WACC build, sensitivity grids, and
 relative valuation summary — screenshots included below.
 
 ## Full Report
-📄 [View Full Valuation Report (PDF)](Deepa - Valuation Report- Bluestar Ltd.pdf)
+📄[View Full Valuation Report (PDF)](Deepa%20-%20Valuation%20Report-%20Bluestar%20Ltd.pdf)
 
 ## Disclaimer
 This is an academic exercise for skill-building purposes and does not constitute 
