@@ -19,7 +19,7 @@ multiple valuation techniques.
 - **Monte Carlo simulation:** Intrinsic value distribution
 
 **Financial model**
-[View Financial Model (Excel)](BlueStar_DCF_Valuation_Model.xlsx)
+[View Financial Model (Excel)](https://github.com/deepa496/Valuation-Report-Financial-model---Blue-Star-Ltd/blob/main/Financial%20Model_Bluestar_.xlsx)
 
 ## Key Outputs
 Football field valuation chart, DCF bridge, WACC build, sensitivity grids, and 
